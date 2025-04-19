@@ -28,3 +28,7 @@ button.btn {
 button.btn:hover {
     opacity: 0.9;
 }
+.carousel-iphone img{
+    width: 200px;
+    height: 1000px;
+}
